@@ -1,7 +1,6 @@
 {
   "name": "discordbotpetpet",
   "version": "1.0.0",
-  "description": "",
   "main": "main.js",
   "scripts": {
     "test": "console.log(\"test\");"
@@ -9,7 +8,14 @@
   "author": "hacktheegg",
   "license": "ISC",
   "dependencies": {
+    "canvas": "^2.11.2",
     "discord.js": "^14.11.0",
+    "fs": "^0.0.1-security",
+    "gifencoder": "^2.0.1",
+    "gm": "^1.25.0",
+    "pngjs": "^7.0.0",
     "sqlite3": "^5.1.6"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
